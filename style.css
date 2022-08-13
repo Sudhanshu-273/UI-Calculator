@@ -1,0 +1,38 @@
+.main{
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    font-size: 0px;
+}
+.container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+#search{
+    font-size: 30px;
+    height: 60px;
+    width: 400px;
+    padding: 4px;
+    text-align: right;
+}
+
+.calc{
+    width: 103px;
+    padding: 4px;
+    margin: 0px 0px;
+    font-size: 30px;
+    justify-content: center;
+    height: 80px;
+    border-top: none;
+    cursor: pointer;
+}
+
+#equal{
+    width: 206px;
+}
+
+.calc:hover{
+    background-color: bisque;
+}
